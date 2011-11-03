@@ -1,532 +1,707 @@
 <person>
-  <sex property="boy" value="">
-    <mood property="jovial" value="">
-      <age property="3-7" value="">
-	<height property=4 value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+  <sex property="boy" value="6">
+    <mood property="jovial" value="8">
+      <age property="3-7" value="4">
+	<height property="<3" value="2">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="3-4" value="3">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">4" value="4">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
 	</height>
       </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+      <age property="7-20" value="7">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
       </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+      <age property="21-45" value="8">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-    </mood>
-
-    <mood property="irritating" value="">
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
       </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+      <age property="46-60" value="7.5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
       </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+      <age property=">61" value="5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
       </age>
     </mood>
 
-    <mood property="Introvert" value="">
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+    <mood property="irritating" value="5">
+      <age property="3-7" value="4">
+	<height property="<3" value="2">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="3-4" value="3">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">4" value="4">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
 	</height>
       </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+      <age property="7-20" value="7">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
       </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+      <age property="21-45" value="8">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property="46-60" value="7.5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property=">61" value="5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+    </mood>
+
+    <mood property="introvert-serious" value="7">
+      <age property="3-7" value="4">
+	<height property="<3" value="2">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
+	</height>
+	<height property="3-4" value="3">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
+	</height>
+	<height property=">4" value="4">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
+	</height>
+      </age>
+      <age property="7-20" value="7">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property="21-45" value="8">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property="46-60" value="7.5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property=">61" value="5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+    </mood>
+
+    <mood property="introvert-shy" value="6">
+      <age property="3-7" value="4">
+	<height property="<3" value="2">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
+	</height>
+	<height property="3-4" value="3">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
+	</height>
+	<height property=">4" value="4">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
+	</height>
+      </age>
+      <age property="7-20" value="7">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property="21-45" value="8">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property="46-60" value="7.5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property=">61" value="5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
       </age>
     </mood>
   </sex>
 
-
-  <sex property="girl" value="">
-    <mood property="jovial" value="">
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+  <sex property="girl" value="4">
+    <mood property="jovial" value="8">
+      <age property="3-7" value="4">
+	<height property="<3" value="2">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="3-4" value="3">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">4" value="4">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
 	</height>
       </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+      <age property="7-20" value="7">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
       </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+      <age property="21-45" value="8">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-    </mood>
-
-    <mood property="irritating" value="">
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
       </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+      <age property="46-60" value="7.5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
       </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+      <age property=">61" value="5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
       </age>
     </mood>
 
-    <mood property="Introvert" value="">
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+    <mood property="irritating" value="5">
+      <age property="3-7" value="4">
+	<height property="<3" value="2">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="3-4" value="3">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">4" value="4">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
 	</height>
       </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+      <age property="7-20" value="7">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-      </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
-	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
       </age>
-      <age property="3-7" value="">
-	<height property="3-4" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+      <age property="21-45" value="8">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property="4-5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
-	<height property=">5" value="">
-	  <weight property="<20" value=""></weight>
-	  <weight property="20-30" value=""></weight>
-	  <weight property=">30" value=""></weight>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property="46-60" value="7.5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property=">61" value="5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+    </mood>
+
+    <mood property="introvert-serious" value="7">
+      <age property="3-7" value="4">
+	<height property="<3" value="2">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
+	</height>
+	<height property="3-4" value="3">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
+	</height>
+	<height property=">4" value="4">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
+	</height>
+      </age>
+      <age property="7-20" value="7">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property="21-45" value="8">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property="46-60" value="7.5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property=">61" value="5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+    </mood>
+
+    <mood property="introvert-shy" value="6">
+      <age property="3-7" value="4">
+	<height property="<3" value="2">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
+	</height>
+	<height property="3-4" value="3">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
+	</height>
+	<height property=">4" value="4">
+	  <weight property="<30" value="2"></weight>
+	  <weight property="30-40" value="3"></weight>
+	  <weight property=">40" value="4"></weight>
+	</height>
+      </age>
+      <age property="7-20" value="7">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property="21-45" value="8">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property="46-60" value="7.5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+      </age>
+      <age property=">61" value="5">
+	<height property="<5" value="2">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property="5-6" value="3">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
+	</height>
+	<height property=">6" value="4">
+	  <weight property="<50" value="2"></weight>
+	  <weight property="50-75" value="3"></weight>
+	  <weight property=">75" value="4"></weight>
 	</height>
       </age>
     </mood>
