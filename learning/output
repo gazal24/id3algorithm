@@ -1,0 +1,112 @@
+Input File --> [{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Sunny', 'Weekend': 'W1', 'Money': 'Rich'}, {'Parents': 'No', 'Decision': 'Tennis', 'Weather': 'Sunny', 'Weekend': 'W2', 'Money': 'Rich'}, {'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Windy', 'Weekend': 'W3', 'Money': 'Rich'}, {'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Rainy', 'Weekend': 'W4', 'Money': 'Poor'}, {'Parents': 'No', 'Decision': 'Stay', 'Weather': 'Rainy', 'Weekend': 'W5', 'Money': 'Rich'}, {'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Rainy', 'Weekend': 'W6', 'Money': 'Poor'}, {'Parents': 'No', 'Decision': 'Cinema', 'Weather': 'Windy', 'Weekend': 'W7', 'Money': 'Poor'}, {'Parents': 'No', 'Decision': 'Shopping', 'Weather': 'Windy', 'Weekend': 'W8', 'Money': 'Rich'}, {'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Windy', 'Weekend': 'W9', 'Money': 'Rich'}, {'Parents': 'No', 'Decision': 'Tennis', 'Weather': 'Sunny', 'Weekend': 'W10', 'Money': 'Rich'}]
+dec :  Decision
+
+LENGTH :  10
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Sunny', 'Weekend': 'W1', 'Money': 'Rich'}
+{'Parents': 'No', 'Decision': 'Tennis', 'Weather': 'Sunny', 'Weekend': 'W2', 'Money': 'Rich'}
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Windy', 'Weekend': 'W3', 'Money': 'Rich'}
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Rainy', 'Weekend': 'W4', 'Money': 'Poor'}
+{'Parents': 'No', 'Decision': 'Stay', 'Weather': 'Rainy', 'Weekend': 'W5', 'Money': 'Rich'}
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Rainy', 'Weekend': 'W6', 'Money': 'Poor'}
+{'Parents': 'No', 'Decision': 'Cinema', 'Weather': 'Windy', 'Weekend': 'W7', 'Money': 'Poor'}
+{'Parents': 'No', 'Decision': 'Shopping', 'Weather': 'Windy', 'Weekend': 'W8', 'Money': 'Rich'}
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Windy', 'Weekend': 'W9', 'Money': 'Rich'}
+{'Parents': 'No', 'Decision': 'Tennis', 'Weather': 'Sunny', 'Weekend': 'W10', 'Money': 'Rich'}
+Gain Parents :  0.609986547011
+Gain Weather :  0.695461844238
+Gain Money :  0.281290899231
+{'Money': 0.28129089923069284, 'Weather': 0.69546184423832202, 'Parents': 0.60998654701098765}
+NEXT NODE :  Weather
+
+LENGTH :  4
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Windy', 'Weekend': 'W3', 'Money': 'Rich'}
+{'Parents': 'No', 'Decision': 'Cinema', 'Weather': 'Windy', 'Weekend': 'W7', 'Money': 'Poor'}
+{'Parents': 'No', 'Decision': 'Shopping', 'Weather': 'Windy', 'Weekend': 'W8', 'Money': 'Rich'}
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Windy', 'Weekend': 'W9', 'Money': 'Rich'}
+Gain Parents :  0.311278124459
+Gain Weather :  0.0
+Gain Money :  0.122556248918
+{'Money': 0.12255624891826566, 'Weather': 0.0, 'Parents': 0.31127812445913283}
+NEXT NODE :  Parents
+
+LENGTH :  2
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Windy', 'Weekend': 'W3', 'Money': 'Rich'}
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Windy', 'Weekend': 'W9', 'Money': 'Rich'}
+Gain Parents :  0.0
+Gain Weather :  0.0
+Gain Money :  0.0
+{'Money': 0.0, 'Weather': 0.0, 'Parents': 0.0}
+
+LENGTH :  2
+{'Parents': 'No', 'Decision': 'Cinema', 'Weather': 'Windy', 'Weekend': 'W7', 'Money': 'Poor'}
+{'Parents': 'No', 'Decision': 'Shopping', 'Weather': 'Windy', 'Weekend': 'W8', 'Money': 'Rich'}
+Gain Parents :  0.0
+Gain Weather :  0.0
+Gain Money :  1.0
+{'Money': 1.0, 'Weather': 0.0, 'Parents': 0.0}
+NEXT NODE :  Money
+
+LENGTH :  1
+{'Parents': 'No', 'Decision': 'Cinema', 'Weather': 'Windy', 'Weekend': 'W7', 'Money': 'Poor'}
+Gain Parents :  0.0
+Gain Weather :  0.0
+Gain Money :  0.0
+{'Money': 0.0, 'Weather': 0.0, 'Parents': 0.0}
+
+LENGTH :  1
+{'Parents': 'No', 'Decision': 'Shopping', 'Weather': 'Windy', 'Weekend': 'W8', 'Money': 'Rich'}
+Gain Parents :  0.0
+Gain Weather :  0.0
+Gain Money :  0.0
+{'Money': 0.0, 'Weather': 0.0, 'Parents': 0.0}
+
+LENGTH :  3
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Sunny', 'Weekend': 'W1', 'Money': 'Rich'}
+{'Parents': 'No', 'Decision': 'Tennis', 'Weather': 'Sunny', 'Weekend': 'W2', 'Money': 'Rich'}
+{'Parents': 'No', 'Decision': 'Tennis', 'Weather': 'Sunny', 'Weekend': 'W10', 'Money': 'Rich'}
+Gain Parents :  0.918295834054
+Gain Weather :  0.0
+Gain Money :  0.0
+{'Money': 0.0, 'Weather': 0.0, 'Parents': 0.91829583405448956}
+NEXT NODE :  Parents
+
+LENGTH :  1
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Sunny', 'Weekend': 'W1', 'Money': 'Rich'}
+Gain Parents :  0.0
+Gain Weather :  0.0
+Gain Money :  0.0
+{'Money': 0.0, 'Weather': 0.0, 'Parents': 0.0}
+
+LENGTH :  2
+{'Parents': 'No', 'Decision': 'Tennis', 'Weather': 'Sunny', 'Weekend': 'W2', 'Money': 'Rich'}
+{'Parents': 'No', 'Decision': 'Tennis', 'Weather': 'Sunny', 'Weekend': 'W10', 'Money': 'Rich'}
+Gain Parents :  0.0
+Gain Weather :  0.0
+Gain Money :  0.0
+{'Money': 0.0, 'Weather': 0.0, 'Parents': 0.0}
+
+LENGTH :  3
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Rainy', 'Weekend': 'W4', 'Money': 'Poor'}
+{'Parents': 'No', 'Decision': 'Stay', 'Weather': 'Rainy', 'Weekend': 'W5', 'Money': 'Rich'}
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Rainy', 'Weekend': 'W6', 'Money': 'Poor'}
+Gain Parents :  0.918295834054
+Gain Weather :  0.0
+Gain Money :  0.918295834054
+{'Money': 0.91829583405448956, 'Weather': 0.0, 'Parents': 0.91829583405448956}
+NEXT NODE :  Money
+
+LENGTH :  2
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Rainy', 'Weekend': 'W4', 'Money': 'Poor'}
+{'Parents': 'Yes', 'Decision': 'Cinema', 'Weather': 'Rainy', 'Weekend': 'W6', 'Money': 'Poor'}
+Gain Parents :  0.0
+Gain Weather :  0.0
+Gain Money :  0.0
+{'Money': 0.0, 'Weather': 0.0, 'Parents': 0.0}
+
+LENGTH :  1
+{'Parents': 'No', 'Decision': 'Stay', 'Weather': 'Rainy', 'Weekend': 'W5', 'Money': 'Rich'}
+Gain Parents :  0.0
+Gain Weather :  0.0
+Gain Money :  0.0
+{'Money': 0.0, 'Weather': 0.0, 'Parents': 0.0}
+FINAL  {('Weather', 'Windy'): {('Parents', 'Yes'): 'Cinema', ('Parents', 'No'): {('Money', 'Poor'): 'Cinema', ('Money', 'Rich'): 'Shopping'}}, ('Weather', 'Sunny'): {('Parents', 'Yes'): 'Cinema', ('Parents', 'No'): 'Tennis'}, ('Weather', 'Rainy'): {('Money', 'Poor'): 'Cinema', ('Money', 'Rich'): 'Stay'}}
