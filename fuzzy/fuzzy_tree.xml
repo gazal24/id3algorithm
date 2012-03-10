@@ -1,0 +1,19 @@
+<person>
+  <age property="200" value="2">
+    <mood property="200" value="3"></mood>
+    <mood property="400" value="4"></mood>
+    <mood property="600" value="5"></mood>
+  </age>
+
+  <age property="400" value="4">
+    <mood property="200" value="4"></mood>
+    <mood property="400" value="5"></mood>
+    <mood property="600" value="6"></mood>
+  </age>
+  
+  <age property="600" value="6">
+    <mood property="200" value="4"></mood>
+    <mood property="400" value="5"></mood>
+    <mood property="600" value="6"></mood>
+  </age>
+</person>
