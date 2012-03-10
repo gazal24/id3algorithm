@@ -1,0 +1,11 @@
+Ex Fault-1 Fault-2 Fault-3 Decision
+1 a1 b1 c1 dec-1
+2 a2 b1 c1 dec-2
+3 a1 b2 c1 dec-2
+4 a1 b3 c2 dec-1
+5 a2 b3 c1 dec-3
+6 a1 b3 c2 dec-1
+7 a2 b2 c2 dec-1
+8 a2 b2 c1 dec-4
+9 a1 b2 c1 dec-2
+10 a2 b1 c1 dec-2
