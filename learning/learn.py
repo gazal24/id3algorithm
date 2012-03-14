@@ -2,7 +2,7 @@ from math import log
 import types
 
 target = "Decision"
-example = "Weekend"
+example = "Ex"
 
 def Entropy(T): # T is a Table
     size = float(len(T))
@@ -52,8 +52,8 @@ def get_next_node(T):
     h = {}
     for attribute in keys:
         h[attribute] = Gain(T,attribute)
-        print "Gain", attribute , ": ", h[attribute]
-    print h
+        #print "Gain", attribute , ": ", h[attribute]
+    #print h
     next_node = max(h, key=h.get)
     return [next_node, h[next_node]] # return next_node and its Gain value
 
@@ -61,9 +61,9 @@ def get_next_node(T):
 def learn(T):
     tree = {}
     
-    print "\nLENGTH : ", len(T)
-    for t in T:
-        print t
+    #print "\nLENGTH : ", len(T)
+    #for t in T:
+        #print t
     next_node = get_next_node(T)
 
     if next_node[1] == 0.0: #if Gain value is 0.0 then return a leaf
@@ -71,7 +71,7 @@ def learn(T):
 
     next_node = next_node[0]
         
-    print "NEXT NODE : ", next_node
+    #print "NEXT NODE : ", next_node
     value_set = set([])
     for t in T:
         value_set.add(t[next_node])
@@ -92,20 +92,20 @@ for l in input.readlines():
     table.append(dict(zip(prop,l.split())))
     
     
-print table
+#print table
 Entropy(table)
-print "dec : ", decision 
+#print "dec : ", decision 
 
 def print_hash(h,depth):
     depth += 1
     for k in h.keys():
-        print '-'*depth, k
+        print '\t--'*depth, k
         if isinstance(h[k], types.DictType):
             print_hash(h[k], depth)
-        else: print '-'*depth, '=>', h[k]
+        else: print '\t--'*depth, '=====>', h[k]
 
 TREE = learn(table)
-print "FINAL ", TREE
+#print "FINAL ", TREE
 
-
+print
 print_hash(TREE,0)
